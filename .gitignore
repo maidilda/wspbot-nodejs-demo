@@ -1,0 +1,13 @@
+./node_modules
+node_modules
+./.venv
+.venv
+./.vscode
+.vscode
+./.wwebjs_auth
+.wwebjs_auth
+./.wwebjs_cache
+.wwebjs_cache
+assets
+./assets
+
