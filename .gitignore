@@ -10,4 +10,11 @@ node_modules
 .wwebjs_cache
 assets
 ./assets
-
+api.py
+./api.py
+backup.js
+./backup.js
+index_copy.js
+./index_copy.js
+index_copy.js
+./index_copy.js
